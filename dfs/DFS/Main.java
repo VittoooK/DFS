@@ -1,8 +1,5 @@
 package DFS;
 
-import DFS.Graph;
-import DFS.Vertex;
-
 import java.util.List;
 
 public class Main {
